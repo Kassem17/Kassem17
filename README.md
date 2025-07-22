@@ -20,6 +20,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -66,15 +67,6 @@
 </p>
 ---
 
-### ⚙️ MERN Stack Dev Life
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
-</p>
-
----
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
