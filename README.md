@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/kassem17?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
-<p align="center">
+<p align="center" style="white-space: nowrap; overflow-x: auto; gap:2;">
   <img src="https://github-profile-trophy.vercel.app/?username=kassem17&theme=onedark&no-frame=true&row=1&column=7" alt="kassem17" width="100%"/>
 </p>
 
