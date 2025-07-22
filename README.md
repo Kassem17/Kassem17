@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **kassemh294@gmail.com**
 
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kassem haidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kassem haidar" height="30" width="40" /></a>
