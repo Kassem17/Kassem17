@@ -64,14 +64,14 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kassem17" alt="GitHub Streak" />
 </p>
-
 ---
 
-### 🧑‍💻 Fun Coding GIFs
+### ⚙️ MERN Stack Dev Life
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
 </p>
 
 ---
