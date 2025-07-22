@@ -22,7 +22,7 @@
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ6d2Z4YzV2Y2V2Y3J5eGp4dGJ4d2N6eGZ2bHZqZzZqZzZqZzZqZ3hhaWx1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
@@ -43,45 +43,17 @@
 
 ---
 
-### � Tech Stack
+### 💻 Languages & Tools
 
-<h4 align="center">Languages & Tools</h4>
-
-<p align="center">
-  <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
-    <div style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-      <p>React</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-      <p>Node.js</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-      <p>MongoDB</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
-      <p>Tailwind</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/>
-      <p>React Native</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-      <p>JavaScript</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-      <p>TypeScript</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
-      <p>Express</p>
-    </div>
-  </div>
+<p align="center" style="white-space: nowrap; overflow-x: auto;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </p>
 
 ---
@@ -105,8 +77,4 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="150" alt="Coding gif"/>
 </p>
