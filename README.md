@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=kassem17&theme=onedark&no-frame=true&row=1&column=7](https://scontent.fbey2-2.fna.fbcdn.net/v/t39.30808-6/300595654_466643175472510_9195688392164828097_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ZUzOxONZo5QQ7kNvwGi-uQV&_nc_oc=AdnFYqD7tipFkl6YleMUFkH0DHuRJjEsLzkh0jZFnwTCGu8mbf41o4ud2E_cSweHJ90&_nc_zt=23&_nc_ht=scontent.fbey2-2.fna&_nc_gid=SmPbQqrH7pqOW6ge2TTHxw&oh=00_AfQDQxSstpiAB0VRjXm4gT0E2UwM5mZr6c5c1YecGWyr3w&oe=68870CF6)" alt="kassem17" width="100%"/>
+  <img src= "https://files.wmich.edu/s3fs-public/styles/hero_12_5/public/images/u883/2022/CS-senior-design_0.jpg?h=6d437bbf&itok=kNPyXVP2" width="200" height="200" />
 </p>
 
 ---
