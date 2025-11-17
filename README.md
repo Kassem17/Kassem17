@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I'm currently building: **X Clone Mobile App**
+- 🔭 I'm currently building: **a Resturant web application (TasteHub)**
 - 🌱 I'm learning: **Advanced JavaScript Frameworks**
 - 👯 I'm looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **React.js, Node.js, MongoDB**
