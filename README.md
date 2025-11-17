@@ -19,7 +19,6 @@
 - 👯 I'm looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **React.js, Node.js, MongoDB**
 - 📫 How to reach me: **kassemh294@gmail.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ6d2Z4YzV2Y2V2Y3J5eGp4dGJ4d2N6eGZ2bHZqZzZqZzZqZzZqZ3hhaWx1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
